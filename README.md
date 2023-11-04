@@ -11,5 +11,5 @@ Projeto do filme do Mario 💙
 ![gif do projeto](src/imagens/MARIO.gif)
 
 ## Link
-[https://github.com/ThalesDiasdeOliveira/Projeto-Mario](https://github.com/ThalesDiasdeOliveira/Projeto-Mario)
+[https://thalesdiasdeoliveira.github.io/Mario/](https://thalesdiasdeoliveira.github.io/Mario/)
 
